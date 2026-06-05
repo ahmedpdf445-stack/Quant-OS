@@ -1,4 +1,4 @@
-# SOVEREIGN-X CORE OS
+
 ## Elite Quantitative Trading System
 ### Production-Ready Algorithmic Trading Platform
 
