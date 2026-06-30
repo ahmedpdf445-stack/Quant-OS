@@ -1,5 +1,5 @@
 
-## Elite Quantitative Trading System
+# Elite Quantitative Trading System
 ### Production-Ready Algorithmic Trading Platform
 
 **Version:** 1.0.0  
